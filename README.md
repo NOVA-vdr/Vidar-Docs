@@ -1,3 +1,5 @@
 # Vidar-Docs
-Temporary documents of Vidar programming language
-Vidar --version 0.0
+Temporary documents of the Vidar programming language
+Vidar --version 1.0
+
+(**UNFIFINISHED**) **미완성!!**
